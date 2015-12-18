@@ -1,0 +1,22 @@
+{
+  "name": "fuzzy-date",
+  "version": "1.0.0",
+  "description": "Like a Date but fuzzy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/fuzzy-date.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/fuzzy-date/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/fuzzy-date#readme",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
